@@ -17,6 +17,7 @@ Research Data Preservation Group - lesson ideas
 
     - 07 Persistent Identifiers (PIDs) by Nomvuyelo
 
+    - 08 Isak Test
 
 
 
